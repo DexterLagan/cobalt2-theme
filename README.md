@@ -10,7 +10,7 @@ This package is the Cobalt 2 color scheme for DrRacket, Racket's IDE.
 2) Restart DrRacket;
 3) Select the new theme in 'Edit' -> 'Preferences...' -> 'Colors' tab.
 
-### Using the Package Manager in DrRacket
+### Using the Package Manager
 1) Select 'File' -> 'Install Package...' and paste the package URL (https://github.com/DexterLagan/cobalt2-theme.git);
 2) Click 'Install';
 3) Restart DrRacket;
