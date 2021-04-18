@@ -1,5 +1,8 @@
 #lang info
 
+;; pkg metadata
+(define deps '("base"))
+
 ;;; purpose
 
 ; The Cobalt 2 color theme for DrRacket - converted by Dexter Santucci
