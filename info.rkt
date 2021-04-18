@@ -6,6 +6,8 @@
 
 ;;; main 
 
+(define collection "cobalt-theme")
+
 (define framework:color-schemes
   '(#hash((colors
            .
