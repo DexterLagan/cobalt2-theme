@@ -1,10 +1,10 @@
 #lang scribble/manual
-@require[@for-label[cobalt-theme
+@require[@for-label[cobalt2-theme
                     racket/base]]
 
-@title{cobalt-theme}
-@author{dexte}
+@title{cobalt2-theme}
+@author{Dexter Santucci}
 
-@defmodule[cobalt-theme]
+@defmodule[cobalt2-theme]
 
-Package Description Here
+The Cobalt 2 color theme for DrRacket.
