@@ -1,6 +1,8 @@
 # Cobalt 2 Color Theme for DrRacket
 This package is the Cobalt 2 color scheme for DrRacket, Racket's IDE.
 
+<p align="center"><img src="screenshots/screenshot.png"></p>
+
 ## Installation
 
 ### Using Raco
