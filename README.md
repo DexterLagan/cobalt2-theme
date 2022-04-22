@@ -18,6 +18,8 @@ This package is the Cobalt 2 color scheme for DrRacket, Racket's IDE.
 
 ## More Screenshots
 
+With Fira Code Retina font, italic comments.
+
 <p align="center"><img src="screenshots/screenshot2.png"></p>
 
 Cheers,
