@@ -148,3 +148,4 @@
 ; framework:syntax-color:scheme:text
 ; plt:module-language:test-coverage-off
 ; plt:module-language:test-coverage-on)
+(define deps '("base"))
